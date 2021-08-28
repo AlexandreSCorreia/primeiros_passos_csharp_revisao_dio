@@ -1,1 +1,2 @@
-# primeiros_passos_csharp_revisao_dio
+## Primeiros passos com .NET
+Projeto desenvolvido para treinar e rever algumas coisas ensinadas no curso em um projeto.
